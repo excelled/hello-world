@@ -1,2 +1,3 @@
 # hello-world
-just testing
+Hello World! Just testing out this github stuff ... 
+Its pretty interesting.
